@@ -1,2 +1,1 @@
-# friends
-friend links storage
+blog friends link
