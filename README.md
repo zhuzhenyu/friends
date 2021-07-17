@@ -1,0 +1,2 @@
+# friends
+friend links storage
